@@ -1,15 +1,1 @@
-The file contians following algorithms
-
-1. Dijkstra's algorithm
-
-2. Dynamic Programming
-
-3. Floyd's algorithm
-
-4. Breadth first search
-
-5. Depth first search
-
-6. Prim's Algorithm
-
-7. Kruskal's algorithm
+These algorithms are fundamental in data structures for solving graph and optimization problems. They include techniques for finding shortest paths (Dijkstra, Floyd-Warshall), graph traversal (BFS, DFS), and constructing minimum spanning trees (Prim, Kruskal). Dynamic programming is a broader optimization approach used in various problems.
